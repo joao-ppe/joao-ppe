@@ -1,5 +1,5 @@
 # Olá! 👋🏻  
-## Here's some stuff about myself:    
+## Who am I?    
 - 🤵🏻 My name is João Carvalho and I'm from Porto, Portugal.  
 - 👨🏻‍🎓 I'm currently studying software development at **42 School**, in Porto. My username is _joao-ppe_. 
 - 🌱 I’m currently learning C language.  
