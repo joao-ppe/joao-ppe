@@ -1,6 +1,6 @@
 # Olá! 👋🏻  
 ## Who am I?    
-- 🤵🏻 My name is João Carvalho and I'm from Porto, Portugal.  
+- 🤵🏻 My name is João Carvalho and I'm from Vila Nova de Gaia, Porto, Portugal.  
 - 👨🏻‍🎓 I'm currently studying software development at **42 School**, in Porto. My username is _joao-ppe_. 
 - 🌱 I’m currently learning C, C++ and Shell.  
 - ⚡ Random fact: Besides coding, I also love producing music (and gaming, but don't tell anyone...).  
